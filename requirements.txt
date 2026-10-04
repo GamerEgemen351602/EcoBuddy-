@@ -1,0 +1,2 @@
+# EcoBuddy için ekstra kütüphane gerekmiyor.
+# Python standart kütüphaneleri kullanılıyor.
